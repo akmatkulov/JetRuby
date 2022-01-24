@@ -1,1 +1,6 @@
-puts '~~This was mistaken text~~'
+Use fallowing command to run
+
+
+```
+    ruby hello.rb
+```
